@@ -1,6 +1,6 @@
 def consolidate_cart(cart)
   # code here
-  puts cart 
+  puts cart
 
 end
 
