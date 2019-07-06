@@ -1,6 +1,10 @@
 def consolidate_cart(cart)
-  # code here
+  #consolidate_cart
+#[{"TEMPEH"=>{:price=>3.0, :clearance=>true}}, {"PEANUTBUTTER"=>{:price=>3.0, :clearance=>true}}, {"ALMON
+#DS"=>{:price=>9.0, :clearance=>false}}]    adds a count of one to each item when there are no duplicates
   print cart
+new_hash = {}
+
 
 end
 
